@@ -1,4 +1,4 @@
-<h1>jordans Nmap </h1>
+<h1>jordans Nmap 👨🏿‍💻</h1>
 
 <h2>Description</h2>
 Project consists of a simple exercise on how nmap works  
@@ -7,7 +7,7 @@ Project consists of a simple exercise on how nmap works
 
 <h2>tools Used</h2>
 
-- <b>nmap, metasploit framwork</b> 
+- <b>nmap🌎, metasploit framwork 🛡️</b> 
 
 <h2>Environments Used </h2>
 
